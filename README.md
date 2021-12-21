@@ -1,4 +1,4 @@
-# BeOpenIT-Documentation Open Data Hub instance Deployment (ODH)
+# Documentation Open Data Hub instance Deployment (ODH)
 ## Description
 
 This module aims to deploy an instance of the ODH platform into an Openshift cluster
@@ -61,7 +61,4 @@ This module use an internal module called terraform-aws-module-vpc that provisio
 This module has no externals dependencies yet
 
 ## Authors
-Module is maintained by BeOpenIT BU DATA 
-
-## License
-BeOpenIT Licensed
+Module is maintained by Nelson Gougou
